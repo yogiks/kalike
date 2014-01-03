@@ -1,1 +1,1 @@
-This repo contains Yadgir related visualisations
+Yadgir related visualisations
