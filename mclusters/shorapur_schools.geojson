@@ -1,0 +1,772 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "name": "GOVT Higher Primary School ALADAL", "latitude": 16.54131, "longitude": 76.68498 }, "geometry": { "type": "Point", "coordinates": [ 76.68498, 16.54131 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "name": "Lower Primary School AINAPUR   ", "latitude": 16.6375, "longitude": 76.47005 }, "geometry": { "type": "Point", "coordinates": [ 76.47005, 16.6375 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "name": "GOVT Lower Primary School ADDADAGI  ", "latitude": 16.45272, "longitude": 76.83777 }, "geometry": { "type": "Point", "coordinates": [ 76.83777, 16.45272 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "name": "Higher Primary School ALHAL   ", "latitude": 16.62703, "longitude": 76.43727 }, "geometry": { "type": "Point", "coordinates": [ 76.43727, 16.62703 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "name": "GOVT Higher Primary School AMALIHAL  ", "latitude": 16.5817, "longitude": 76.4304 }, "geometry": { "type": "Point", "coordinates": [ 76.4304, 16.5817 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "name": "GOVT Lower Primary School AMMAPUR S K  ", "latitude": 16.29285, "longitude": 76.42983 }, "geometry": { "type": "Point", "coordinates": [ 76.42983, 16.29285 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "name": "GOVT Higher Primary School ARAKERA J  ", "latitude": 16.53206, "longitude": 76.50683 }, "geometry": { "type": "Point", "coordinates": [ 76.50683, 16.53206 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "name": "GOVT Lower Primary School ARALAHALLI  ", "latitude": 16.41, "longitude": 76.71229 }, "geometry": { "type": "Point", "coordinates": [ 76.71229, 16.41 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "name": "Lower Primary School ARALLALLI CROSS  ", "latitude": 16.41736, "longitude": 76.706 }, "geometry": { "type": "Point", "coordinates": [ 76.706, 16.41736 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "name": "GOVT Lower Primary School B.G.TANDA  ", "latitude": 16.30798, "longitude": 76.35411 }, "geometry": { "type": "Point", "coordinates": [ 76.35411, 16.30798 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "name": "GOVT Higher Primary School B.TALLI  ", "latitude": 16.60734, "longitude": 76.42697 }, "geometry": { "type": "Point", "coordinates": [ 76.42697, 16.60734 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "name": "GOVT Higher Primary School BADYAPUR  ", "latitude": 16.6009, "longitude": 76.73444 }, "geometry": { "type": "Point", "coordinates": [ 76.73444, 16.6009 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "name": "GOVT Higher Primary School BAICHBAL  ", "latitude": 16.55569, "longitude": 76.56524 }, "geometry": { "type": "Point", "coordinates": [ 76.56524, 16.55569 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "name": "Govt High School BAICHBALA   ", "latitude": 16.56578, "longitude": 76.56845 }, "geometry": { "type": "Point", "coordinates": [ 76.56845, 16.56578 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "name": "GOVT Higher Primary School BAILAKUNTI  ", "latitude": 16.35842, "longitude": 76.4947 }, "geometry": { "type": "Point", "coordinates": [ 76.4947, 16.35842 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "name": "GOVT Higher Primary School BALASHETTYHAL  ", "latitude": 16.38925, "longitude": 76.5078 }, "geometry": { "type": "Point", "coordinates": [ 76.5078, 16.38925 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "name": "Govt High School BALASHETTIHAL   ", "latitude": 16.3834, "longitude": 76.50405 }, "geometry": { "type": "Point", "coordinates": [ 76.50405, 16.3834 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "name": "GOVT Lower Primary School BANDOLLI  ", "latitude": 16.37515, "longitude": 76.66126 }, "geometry": { "type": "Point", "coordinates": [ 76.66126, 16.37515 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "name": "GOVT Lower Primary School B.DODDI  ", "latitude": 16.52022, "longitude": 76.63303 }, "geometry": { "type": "Point", "coordinates": [ 76.63303, 16.52022 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "name": "GOVT Higher Primary School BANADODDI  ", "latitude": 16.34901, "longitude": 76.59929 }, "geometry": { "type": "Point", "coordinates": [ 76.59929, 16.34901 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "name": "GOVT Higher Primary School BAPPERGI  ", "latitude": 16.38433, "longitude": 76.32845 }, "geometry": { "type": "Point", "coordinates": [ 76.32845, 16.38433 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "name": "GOVT Lower Primary School R.N NAGAR TANDA ", "latitude": 16.3158, "longitude": 76.37011 }, "geometry": { "type": "Point", "coordinates": [ 76.37011, 16.3158 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "name": "Govt Lower Primary School RK NAGAR TANDA  ", "latitude": 16.33317, "longitude": 76.37719 }, "geometry": { "type": "Point", "coordinates": [ 76.37719, 16.33317 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "name": "GOVT Lower Primary School BASARIGIDAD TANDA  ", "latitude": 16.28022, "longitude": 76.36851 }, "geometry": { "type": "Point", "coordinates": [ 76.36851, 16.28022 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "name": "GOVT Lower Primary School BAYLPURA  ", "latitude": 16.42866, "longitude": 76.5761 }, "geometry": { "type": "Point", "coordinates": [ 76.5761, 16.42866 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "name": "Govt Higher Primary School BAILAPUR TANDA  ", "latitude": 16.44934, "longitude": 76.57 }, "geometry": { "type": "Point", "coordinates": [ 76.57, 16.44934 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "name": "GOVT Lower Primary School BENCHIGADDI  ", "latitude": 16.3364, "longitude": 76.5614 }, "geometry": { "type": "Point", "coordinates": [ 76.5614, 16.3364 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "name": "GOVT Higher Primary School BENAKANHALLI  ", "latitude": 16.47625, "longitude": 76.623 }, "geometry": { "type": "Point", "coordinates": [ 76.623, 16.47625 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "name": "Govt High School BENAKANHALLI   ", "latitude": 16.47007, "longitude": 76.61806 }, "geometry": { "type": "Point", "coordinates": [ 76.61806, 16.47007 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "name": "GOVT Lower Primary School BEVINAL (S H) ", "latitude": 16.45421, "longitude": 76.80315 }, "geometry": { "type": "Point", "coordinates": [ 76.80315, 16.45421 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "name": "GOVT Lower Primary School BHAIRIMARDI  ", "latitude": 16.57575, "longitude": 76.74667 }, "geometry": { "type": "Point", "coordinates": [ 76.74667, 16.57575 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "name": "GOVT Lower Primary School BUDGUMPPIDODDI  ", "latitude": 16.38989, "longitude": 76.61652 }, "geometry": { "type": "Point", "coordinates": [ 76.61652, 16.38989 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "name": "GOVT Lower Primary School CHANDERSHEKER REDDY  BUDAGUMPADODDI", "latitude": 16.38396, "longitude": 76.5555 }, "geometry": { "type": "Point", "coordinates": [ 76.5555, 16.38396 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "name": "GOVT Higher Primary School BIJASPUR  ", "latitude": 16.55807, "longitude": 76.81964 }, "geometry": { "type": "Point", "coordinates": [ 76.81964, 16.55807 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "name": "GOVT Higher Primary School BAMMAGUDDA  ", "latitude": 16.35546, "longitude": 76.47823 }, "geometry": { "type": "Point", "coordinates": [ 76.47823, 16.35546 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "name": "GOVT Higher Primary School BOMMANHALLI T  ", "latitude": 16.5555, "longitude": 76.70693 }, "geometry": { "type": "Point", "coordinates": [ 76.70693, 16.5555 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "name": "GOVT Higher Primary School BONAL  ", "latitude": 16.51472, "longitude": 76.65611 }, "geometry": { "type": "Point", "coordinates": [ 76.65611, 16.51472 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "name": "GOVT Lower Primary School BOODNOORDODDI  ", "latitude": 16.39016, "longitude": 76.54555 }, "geometry": { "type": "Point", "coordinates": [ 76.54555, 16.39016 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "name": "GOVT Higher Primary School CHANDALAPUR  ", "latitude": 16.45574, "longitude": 76.79905 }, "geometry": { "type": "Point", "coordinates": [ 76.79905, 16.45574 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "name": "GOVT Lower Primary School CHANNPATTANA  ", "latitude": 16.42121, "longitude": 76.63035 }, "geometry": { "type": "Point", "coordinates": [ 76.63035, 16.42121 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "name": "GOVT Lower Primary School CHANNUR  ", "latitude": 16.60941, "longitude": 76.66922 }, "geometry": { "type": "Point", "coordinates": [ 76.66922, 16.60941 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "name": "GOVT Lower Primary School CHANNUR TANDA  ", "latitude": 16.45888, "longitude": 76.56445 }, "geometry": { "type": "Point", "coordinates": [ 76.56445, 16.45888 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "name": "GOVT Higher Primary School CHIGARAHAL  ", "latitude": 16.58182, "longitude": 76.65424 }, "geometry": { "type": "Point", "coordinates": [ 76.65424, 16.58182 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "name": "GOVT Higher Primary School CHIKANHALLI  ", "latitude": 16.50817, "longitude": 76.62502 }, "geometry": { "type": "Point", "coordinates": [ 76.62502, 16.50817 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "name": "Higher Primary School CHINCHOLI   ", "latitude": 16.69113, "longitude": 76.43084 }, "geometry": { "type": "Point", "coordinates": [ 76.43084, 16.69113 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "name": "Govt High School CHINCHOLI   ", "latitude": 16.6912, "longitude": 76.43111 }, "geometry": { "type": "Point", "coordinates": [ 76.43111, 16.6912 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "name": "GOVT Lower Primary School CHOWDESHWARHAL  ", "latitude": 16.45508, "longitude": 76.84254 }, "geometry": { "type": "Point", "coordinates": [ 76.84254, 16.45508 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "name": "GOVT Lower Primary School CHAPI TANDA  ", "latitude": 16.28151, "longitude": 76.34483 }, "geometry": { "type": "Point", "coordinates": [ 76.34483, 16.28151 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "name": "GOVT Lower Primary School DADALAPUR  ", "latitude": 16.38185, "longitude": 76.6703 }, "geometry": { "type": "Point", "coordinates": [ 76.6703, 16.38185 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "name": "GOVT Higher Primary School DANDASOLAPUR  ", "latitude": 16.72348, "longitude": 76.63803 }, "geometry": { "type": "Point", "coordinates": [ 76.63803, 16.72348 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "name": "GOVT Higher Primary School DEVAPUR  ", "latitude": 16.43592, "longitude": 76.72619 }, "geometry": { "type": "Point", "coordinates": [ 76.72619, 16.43592 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "name": "Lower Primary School HARIJANWAD DEVAPUR  ", "latitude": 16.43363, "longitude": 76.72824 }, "geometry": { "type": "Point", "coordinates": [ 76.72824, 16.43363 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "name": "Lower Primary School URDU DEVAPUR  ", "latitude": 16.43346, "longitude": 76.72658 }, "geometry": { "type": "Point", "coordinates": [ 76.72658, 16.43346 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "name": "Govt High School DEVAPUR DEVAPUR  ", "latitude": 16.4337, "longitude": 76.72468 }, "geometry": { "type": "Point", "coordinates": [ 76.72468, 16.4337 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "name": "VISHWA JYOTHI Lower Primary School DEVAPUR  ", "latitude": 16.43743, "longitude": 76.72532 }, "geometry": { "type": "Point", "coordinates": [ 76.72532, 16.43743 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "name": "GOVT Lower Primary School DEVAPUR (J)  ", "latitude": 16.47263, "longitude": 76.50271 }, "geometry": { "type": "Point", "coordinates": [ 76.50271, 16.47263 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "name": "GOVT Higher Primary School DEVTKAL  ", "latitude": 16.46537, "longitude": 76.64668 }, "geometry": { "type": "Point", "coordinates": [ 76.64668, 16.46537 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "name": "Lower Primary School BAILMADDI CAMP  ", "latitude": 16.44665, "longitude": 76.63892 }, "geometry": { "type": "Point", "coordinates": [ 76.63892, 16.44665 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "name": "Lower Primary School ESHWAR CAMP DEVATKAL  ", "latitude": 16.45788, "longitude": 76.63164 }, "geometry": { "type": "Point", "coordinates": [ 76.63164, 16.45788 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "name": "Govt High School DEVATKAL DEVATKAL  ", "latitude": 16.46155, "longitude": 76.63638 }, "geometry": { "type": "Point", "coordinates": [ 76.63638, 16.46155 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "name": "BEERALINGESHWAR Lower Primary School DEVATKAL  ", "latitude": 16.45989, "longitude": 76.64179 }, "geometry": { "type": "Point", "coordinates": [ 76.64179, 16.45989 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "name": "GOVT Higher Primary School DEVARGONAL  ", "latitude": 16.57378, "longitude": 76.72127 }, "geometry": { "type": "Point", "coordinates": [ 76.72127, 16.57378 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "name": "SIDHARTHA School DEVARGONAL", "latitude": 16.571, "longitude": 76.71824 }, "geometry": { "type": "Point", "coordinates": [ 76.71824, 16.571 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "name": "Govt High School DEVARGONAL  ", "latitude": 16.5715, "longitude": 76.71768 }, "geometry": { "type": "Point", "coordinates": [ 76.71768, 16.5715 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "name": "GOVT Higher Primary School DEVIKERA  ", "latitude": 16.55683, "longitude": 76.78414 }, "geometry": { "type": "Point", "coordinates": [ 76.78414, 16.55683 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "name": "GOVT Higher Primary School DEYAMANAL  ", "latitude": 16.40201, "longitude": 76.49195 }, "geometry": { "type": "Point", "coordinates": [ 76.49195, 16.40201 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "name": "Lower Primary School URDU DYAMANAL  ", "latitude": 16.40091, "longitude": 76.49353 }, "geometry": { "type": "Point", "coordinates": [ 76.49353, 16.40091 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "name": "GOVT Higher Primary School DIVALAGUDDA  ", "latitude": 16.53142, "longitude": 76.78104 }, "geometry": { "type": "Point", "coordinates": [ 76.78104, 16.53142 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "name": "DR. BABU JAGAJEEVANRAM Lower Primary School D.GUDDA ", "latitude": 16.53091, "longitude": 76.77993 }, "geometry": { "type": "Point", "coordinates": [ 76.77993, 16.53091 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "name": "V.C. SRI KANAKADAS Lower Primary School D.GUDDA ", "latitude": 16.53318, "longitude": 76.78295 }, "geometry": { "type": "Point", "coordinates": [ 76.78295, 16.53318 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "name": "Lower Primary School DORANHALLI DORANAHALLI  ", "latitude": 16.6626, "longitude": 76.41893 }, "geometry": { "type": "Point", "coordinates": [ 76.41893, 16.6626 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "name": "GOVT Higher Primary School GEDDALAMARI  ", "latitude": 16.32745, "longitude": 76.50767 }, "geometry": { "type": "Point", "coordinates": [ 76.50767, 16.32745 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "name": "Lower Primary School KUMBARBENCHI GEDDALMARI  ", "latitude": 16.34106, "longitude": 76.50745 }, "geometry": { "type": "Point", "coordinates": [ 76.50745, 16.34106 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "name": "Govt Lower Primary School AMBEDAKAR DODDI(GEDDALAMARI)  ", "latitude": 16.31775, "longitude": 76.51458 }, "geometry": { "type": "Point", "coordinates": [ 76.51458, 16.31775 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "name": "Govt High School GEDDALMARI   ", "latitude": 16.3201, "longitude": 76.50365 }, "geometry": { "type": "Point", "coordinates": [ 76.50365, 16.3201 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "name": "Govt Lower Primary School GEDDALAMARI TANDA  ", "latitude": 16.33248, "longitude": 76.52443 }, "geometry": { "type": "Point", "coordinates": [ 76.52443, 16.33248 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "name": "GOVT Higher Primary School GODIHAL(T)  ", "latitude": 16.4274, "longitude": 76.6323 }, "geometry": { "type": "Point", "coordinates": [ 76.6323, 16.4274 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "name": "GOVT Lower Primary School GODIHAL(J)  ", "latitude": 16.46721, "longitude": 76.75704 }, "geometry": { "type": "Point", "coordinates": [ 76.75704, 16.46721 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "name": "GOVT Lower Primary School GONAL(SD)  ", "latitude": 16.46345, "longitude": 76.68788 }, "geometry": { "type": "Point", "coordinates": [ 76.68788, 16.46345 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "name": "GOVT Higher Primary School GOUDAGERA  ", "latitude": 16.57999, "longitude": 76.54924 }, "geometry": { "type": "Point", "coordinates": [ 76.54924, 16.57999 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "name": "GOVT Lower Primary School GUGALGATTI  ", "latitude": 16.35744, "longitude": 76.60649 }, "geometry": { "type": "Point", "coordinates": [ 76.60649, 16.35744 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "name": "GOVT Higher Primary School GULABAL  ", "latitude": 16.43421, "longitude": 76.44895 }, "geometry": { "type": "Point", "coordinates": [ 76.44895, 16.43421 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "name": "GOVT Higher Primary School GONDALAGERA  ", "latitude": 16.5285, "longitude": 76.48461 }, "geometry": { "type": "Point", "coordinates": [ 76.48461, 16.5285 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "name": "Govt High School GUNDALGERA   ", "latitude": 16.52631, "longitude": 76.4841 }, "geometry": { "type": "Point", "coordinates": [ 76.4841, 16.52631 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "name": "GOVT Higher Primary School HADANOOR  ", "latitude": 16.73697, "longitude": 76.5425 }, "geometry": { "type": "Point", "coordinates": [ 76.5425, 16.73697 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "name": "GOVT Higher Primary School HAGARATGI  ", "latitude": 16.39814, "longitude": 76.36686 }, "geometry": { "type": "Point", "coordinates": [ 76.36686, 16.39814 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "name": "GOVT High School HAGARATGI  ", "latitude": 16.39442, "longitude": 76.36775 }, "geometry": { "type": "Point", "coordinates": [ 76.36775, 16.39442 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "name": "GOVT Lower Primary School HAL AMMAPUR  ", "latitude": 16.53815, "longitude": 76.64063 }, "geometry": { "type": "Point", "coordinates": [ 76.64063, 16.53815 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "name": "GOVT Lower Primary School HALAGERI  ", "latitude": 16.5053, "longitude": 76.83528 }, "geometry": { "type": "Point", "coordinates": [ 76.83528, 16.5053 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "name": "GOVT Lower Primary School HALABHAVI  ", "latitude": 16.42796, "longitude": 76.64646 }, "geometry": { "type": "Point", "coordinates": [ 76.64646, 16.42796 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "name": "GOVT Lower Primary School HANDRAL (SD)  ", "latitude": 16.4566, "longitude": 76.68154 }, "geometry": { "type": "Point", "coordinates": [ 76.68154, 16.4566 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "name": "GOVT Higher Primary School HANUMASAGAR  ", "latitude": 16.30863, "longitude": 76.44982 }, "geometry": { "type": "Point", "coordinates": [ 76.44982, 16.30863 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "name": "GOVT Lower Primary School HASANAPUR  ", "latitude": 16.53232, "longitude": 76.76361 }, "geometry": { "type": "Point", "coordinates": [ 76.76361, 16.53232 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "name": "GOVT Lower Primary School HAVINHAL  ", "latitude": 16.45823, "longitude": 76.72724 }, "geometry": { "type": "Point", "coordinates": [ 76.72724, 16.45823 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "name": "GOVT Higher Primary School HEBBAL +AFs-B+AF0-I  ", "latitude": 16.48167, "longitude": 76.59751 }, "geometry": { "type": "Point", "coordinates": [ 76.59751, 16.48167 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "name": "Lower Primary School HEBBAL (B) CAMP  ", "latitude": 16.46582, "longitude": 76.5943 }, "geometry": { "type": "Point", "coordinates": [ 76.5943, 16.46582 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "name": "GOVT Lower Primary School HEBBAL +AFs-K+AF0-  ", "latitude": 16.48375, "longitude": 76.61959 }, "geometry": { "type": "Point", "coordinates": [ 76.61959, 16.48375 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "name": "GOVT Lower Primary School HEMADAGI  ", "latitude": 16.44155, "longitude": 76.82985 }, "geometry": { "type": "Point", "coordinates": [ 76.82985, 16.44155 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "name": "GOVT Higher Primary School HEMANOOR  ", "latitude": 16.50611, "longitude": 76.85155 }, "geometry": { "type": "Point", "coordinates": [ 76.85155, 16.50611 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "name": "GOVT Lower Primary School HOMBALKAL  ", "latitude": 16.3679, "longitude": 76.50585 }, "geometry": { "type": "Point", "coordinates": [ 76.50585, 16.3679 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "name": "GOVT Lower Primary School HORATI  ", "latitude": 16.38374, "longitude": 76.34569 }, "geometry": { "type": "Point", "coordinates": [ 76.34569, 16.38374 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "name": "GOVT Lower Primary School HOSURPAI DODDI  ", "latitude": 16.35215, "longitude": 76.57256 }, "geometry": { "type": "Point", "coordinates": [ 76.57256, 16.35215 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "name": "GOVT Model Primary School HUNASAGI  ", "latitude": 16.4561, "longitude": 76.51647 }, "geometry": { "type": "Point", "coordinates": [ 76.51647, 16.4561 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "name": "GOVT Model Primary School HUNASAGI  ", "latitude": 16.45976, "longitude": 76.52663 }, "geometry": { "type": "Point", "coordinates": [ 76.52663, 16.45976 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "name": "GOVT Higher Primary School URDU HUNASAGI  ", "latitude": 16.45459, "longitude": 76.51607 }, "geometry": { "type": "Point", "coordinates": [ 76.51607, 16.45459 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "name": "GJS HUNASAGI   ", "latitude": 16.45479, "longitude": 76.52592 }, "geometry": { "type": "Point", "coordinates": [ 76.52592, 16.45479 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "name": "Govt High School GIRLS HUNASAGI  ", "latitude": 16.45807, "longitude": 76.52383 }, "geometry": { "type": "Point", "coordinates": [ 76.52383, 16.45807 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "name": "Govt Lower Primary School RAGHUNATHAPUR HUNASAGI  ", "latitude": 16.43258, "longitude": 76.5162 }, "geometry": { "type": "Point", "coordinates": [ 76.5162, 16.43258 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "name": "GOVT Lower Primary School HUNASAGI TANDA  ", "latitude": 16.44747, "longitude": 76.5289 }, "geometry": { "type": "Point", "coordinates": [ 76.5289, 16.44747 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "name": "GOVT Higher Primary School HUNASIHOLE  ", "latitude": 16.38393, "longitude": 76.63694 }, "geometry": { "type": "Point", "coordinates": [ 76.63694, 16.38393 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "name": "GOVT Lower Primary School HUVINAHALLI  ", "latitude": 16.58875, "longitude": 76.43568 }, "geometry": { "type": "Point", "coordinates": [ 76.43568, 16.58875 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "name": "GOVT Higher Primary School ISAMPUR  ", "latitude": 16.4955, "longitude": 76.48772 }, "geometry": { "type": "Point", "coordinates": [ 76.48772, 16.4955 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "name": "GOVT Higher Primary School JAGINAGADDI  ", "latitude": 16.22735, "longitude": 76.37447 }, "geometry": { "type": "Point", "coordinates": [ 76.37447, 16.22735 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "name": "GOVT Higher Primary School JALIBENCHI  ", "latitude": 16.55564, "longitude": 76.67287 }, "geometry": { "type": "Point", "coordinates": [ 76.67287, 16.55564 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "name": "URDU JAIBENCHI   ", "latitude": 16.55389, "longitude": 76.67436 }, "geometry": { "type": "Point", "coordinates": [ 76.67436, 16.55389 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "name": "GOVT Higher Primary School JOGUNDABHAVI  ", "latitude": 16.29972, "longitude": 76.36376 }, "geometry": { "type": "Point", "coordinates": [ 76.36376, 16.29972 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "name": "Govt Lower Primary School CHATRU SAHUKAR TANDA  ", "latitude": 16.28332, "longitude": 76.34866 }, "geometry": { "type": "Point", "coordinates": [ 76.34866, 16.28332 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "name": "Govt Lower Primary School BELIGUNDA TANDA JOGANDABHAVI ", "latitude": 16.29275, "longitude": 76.36625 }, "geometry": { "type": "Point", "coordinates": [ 76.36625, 16.29275 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "name": "Govt Lower Primary School GADDADA TANDA JOGANDABHAVI ", "latitude": 16.28493, "longitude": 76.36312 }, "geometry": { "type": "Point", "coordinates": [ 76.36312, 16.28493 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "name": "Govt High School GOGANDABHAVI JOGANDABHAVI  ", "latitude": 16.30142, "longitude": 76.36491 }, "geometry": { "type": "Point", "coordinates": [ 76.36491, 16.30142 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "name": "GOVT Lower Primary School JUMALPUR  ", "latitude": 16.30207, "longitude": 76.48139 }, "geometry": { "type": "Point", "coordinates": [ 76.48139, 16.30207 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "name": "GOVT Higher Primary School JAMALPUR TANDA  ", "latitude": 16.30522, "longitude": 76.46687 }, "geometry": { "type": "Point", "coordinates": [ 76.46687, 16.30522 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "name": "GOVT Higher Primary School KACHKANOOR  ", "latitude": 16.52472, "longitude": 76.59011 }, "geometry": { "type": "Point", "coordinates": [ 76.59011, 16.52472 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "name": "Lower Primary School KACHAPUR   ", "latitude": 16.62081, "longitude": 76.4588 }, "geometry": { "type": "Point", "coordinates": [ 76.4588, 16.62081 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "name": "GOVT Higher Primary School KIRADALLI  ", "latitude": 16.62658, "longitude": 76.61885 }, "geometry": { "type": "Point", "coordinates": [ 76.61885, 16.62658 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "name": "GOVT Higher Primary School KAKKERA  ", "latitude": 16.3861, "longitude": 76.58964 }, "geometry": { "type": "Point", "coordinates": [ 76.58964, 16.3861 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "name": "SRI S. B. Higher Primary School KAKKERA ", "latitude": 16.38495, "longitude": 76.5778 }, "geometry": { "type": "Point", "coordinates": [ 76.5778, 16.38495 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "name": "Lower Primary School SOMANATH GUDI KAKKERA  ", "latitude": 16.39168, "longitude": 76.59028 }, "geometry": { "type": "Point", "coordinates": [ 76.59028, 16.39168 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "name": "Govt Higher Primary School URDU KAKKERA  ", "latitude": 16.38629, "longitude": 76.58987 }, "geometry": { "type": "Point", "coordinates": [ 76.58987, 16.38629 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "name": "Govt Lower Primary School GOUDAGERA DODDI KAKKERA  ", "latitude": 16.3705, "longitude": 76.5687 }, "geometry": { "type": "Point", "coordinates": [ 76.5687, 16.3705 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "name": "Govt Lower Primary School YERIBANDI CAMP KAKKERA  ", "latitude": 16.38593, "longitude": 76.56856 }, "geometry": { "type": "Point", "coordinates": [ 76.56856, 16.38593 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "name": "Govt Lower Primary School H.W. KAKKERA  ", "latitude": 16.38433, "longitude": 76.59096 }, "geometry": { "type": "Point", "coordinates": [ 76.59096, 16.38433 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "name": "Govt Lower Primary School AMBANAGAR KAKKERA  ", "latitude": 16.36795, "longitude": 76.55029 }, "geometry": { "type": "Point", "coordinates": [ 76.55029, 16.36795 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "name": "Govt Higher Primary School JANGANDODDI KAKKERA  ", "latitude": 16.42861, "longitude": 76.59752 }, "geometry": { "type": "Point", "coordinates": [ 76.59752, 16.42861 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "name": "Govt Lower Primary School HABALER DODDI KAKKERA  ", "latitude": 16.42673, "longitude": 76.58802 }, "geometry": { "type": "Point", "coordinates": [ 76.58802, 16.42673 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "name": "GOVT ASHRAM SC\/ST RESIDENTIAL SCHOOL KAKKERA ", "latitude": 16.38505, "longitude": 76.58672 }, "geometry": { "type": "Point", "coordinates": [ 76.58672, 16.38505 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "name": "Govt Lower Primary School ASKER DODDI KAKKERA KAKKERA ", "latitude": 16.41728, "longitude": 76.57444 }, "geometry": { "type": "Point", "coordinates": [ 76.57444, 16.41728 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "name": "Govt Lower Primary School HOLE JAMPAR DODDI KAKKERA ", "latitude": 16.35712, "longitude": 76.58036 }, "geometry": { "type": "Point", "coordinates": [ 76.58036, 16.35712 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "name": "Lower Primary School KARIMANIYA DODDI KAKKERA ", "latitude": 16.41988, "longitude": 76.61056 }, "geometry": { "type": "Point", "coordinates": [ 76.61056, 16.41988 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "name": "Lower Primary School ARYA SHANKAR DODDI KAKKERA ", "latitude": 16.40175, "longitude": 76.53948 }, "geometry": { "type": "Point", "coordinates": [ 76.53948, 16.40175 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "name": "Lower Primary School PHULBHAVI DODDI KAKKERA  ", "latitude": 16.36925, "longitude": 76.57817 }, "geometry": { "type": "Point", "coordinates": [ 76.57817, 16.36925 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "name": "Govt Lower Primary School ETTINADODDI KAKKERA  ", "latitude": 16.42449, "longitude": 76.57001 }, "geometry": { "type": "Point", "coordinates": [ 76.57001, 16.42449 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "name": "Lower Primary School NILKANTARAYAN GADDI KAKKERA ", "latitude": 16.33438, "longitude": 76.57701 }, "geometry": { "type": "Point", "coordinates": [ 76.57701, 16.33438 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "name": "Govt High School KAKKERA KAKKERA  ", "latitude": 16.38479, "longitude": 76.58544 }, "geometry": { "type": "Point", "coordinates": [ 76.58544, 16.38479 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "name": "GOVT Lower Primary School SAWAKARDODDI KAKKERA  ", "latitude": 16.40192, "longitude": 76.59572 }, "geometry": { "type": "Point", "coordinates": [ 76.59572, 16.40192 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "name": "GOVT Lower Primary School MM DODDI KAKKERA ", "latitude": 16.36689, "longitude": 76.62274 }, "geometry": { "type": "Point", "coordinates": [ 76.62274, 16.36689 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "name": "SRI SAI CHETHAN Lower Primary School KAKKERA ", "latitude": 16.3845, "longitude": 76.57629 }, "geometry": { "type": "Point", "coordinates": [ 76.57629, 16.3845 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "name": "SRI SHARAN BASAVESWAR Higher Primary School KAKKERA ", "latitude": 16.38962, "longitude": 76.59066 }, "geometry": { "type": "Point", "coordinates": [ 76.59066, 16.38962 ] } }
+,
+{ "type": "Feature", "id": 149, "properties": { "name": "SRI SANGAMESHWAR Lower Primary School UKP CAMP ", "latitude": 16.38574, "longitude": 76.57654 }, "geometry": { "type": "Point", "coordinates": [ 76.57654, 16.38574 ] } }
+,
+{ "type": "Feature", "id": 150, "properties": { "name": "GOVT. Higher Primary School KAKKERA TANDA  ", "latitude": 16.37836, "longitude": 76.55265 }, "geometry": { "type": "Point", "coordinates": [ 76.55265, 16.37836 ] } }
+,
+{ "type": "Feature", "id": 151, "properties": { "name": "GOVT Higher Primary School KALLDEVAN HALLI  ", "latitude": 16.48514, "longitude": 76.57518 }, "geometry": { "type": "Point", "coordinates": [ 76.57518, 16.48514 ] } }
+,
+{ "type": "Feature", "id": 152, "properties": { "name": "GOVT Lower Primary School KALLDEVANHALLI J COLNY ", "latitude": 16.47933, "longitude": 76.57463 }, "geometry": { "type": "Point", "coordinates": [ 76.57463, 16.47933 ] } }
+,
+{ "type": "Feature", "id": 153, "properties": { "name": "Govt High School KALDEVANHALLI KALDEVAN HALLI ", "latitude": 16.48441, "longitude": 76.5743 }, "geometry": { "type": "Point", "coordinates": [ 76.5743, 16.48441 ] } }
+,
+{ "type": "Feature", "id": 154, "properties": { "name": "GOVT Higher Primary School KANALLI  ", "latitude": 16.55788, "longitude": 76.59939 }, "geometry": { "type": "Point", "coordinates": [ 76.59939, 16.55788 ] } }
+,
+{ "type": "Feature", "id": 155, "properties": { "name": "Lower Primary School KANNELLI GUDISALU  ", "latitude": 16.55272, "longitude": 76.61158 }, "geometry": { "type": "Point", "coordinates": [ 76.61158, 16.55272 ] } }
+,
+{ "type": "Feature", "id": 156, "properties": { "name": "GOVT Lower Primary School KAREKAL  ", "latitude": 16.4247, "longitude": 76.34143 }, "geometry": { "type": "Point", "coordinates": [ 76.34143, 16.4247 ] } }
+,
+{ "type": "Feature", "id": 157, "properties": { "name": "GOVT Higher Primary School KARNAL  ", "latitude": 16.48558, "longitude": 76.84427 }, "geometry": { "type": "Point", "coordinates": [ 76.84427, 16.48558 ] } }
+,
+{ "type": "Feature", "id": 158, "properties": { "name": "Higher Primary School GIRLS KEMBHAVI  ", "latitude": 16.64592, "longitude": 76.52913 }, "geometry": { "type": "Point", "coordinates": [ 76.52913, 16.64592 ] } }
+,
+{ "type": "Feature", "id": 159, "properties": { "name": "Model Primary School KEMBHAVI   ", "latitude": 16.64786, "longitude": 76.53231 }, "geometry": { "type": "Point", "coordinates": [ 76.53231, 16.64786 ] } }
+,
+{ "type": "Feature", "id": 160, "properties": { "name": "HTC KEMBHAVI   ", "latitude": 16.65876, "longitude": 76.53644 }, "geometry": { "type": "Point", "coordinates": [ 76.53644, 16.65876 ] } }
+,
+{ "type": "Feature", "id": 161, "properties": { "name": "Higher Primary School SANJEEV NAGAR KEMBHAVI  ", "latitude": 16.65432, "longitude": 76.52444 }, "geometry": { "type": "Point", "coordinates": [ 76.52444, 16.65432 ] } }
+,
+{ "type": "Feature", "id": 162, "properties": { "name": "Higher Primary School URDU KEMBHAVI  ", "latitude": 16.64779, "longitude": 76.53251 }, "geometry": { "type": "Point", "coordinates": [ 76.53251, 16.64779 ] } }
+,
+{ "type": "Feature", "id": 163, "properties": { "name": "EKALAVYA Higher Primary School LOHAR COLONY KEMBHAVI ", "latitude": 16.64738, "longitude": 76.52779 }, "geometry": { "type": "Point", "coordinates": [ 76.52779, 16.64738 ] } }
+,
+{ "type": "Feature", "id": 164, "properties": { "name": "KALYANANADU Higher Primary School KEMBHAVI ", "latitude": 16.64618, "longitude": 76.52873 }, "geometry": { "type": "Point", "coordinates": [ 76.52873, 16.64618 ] } }
+,
+{ "type": "Feature", "id": 165, "properties": { "name": "SWAMI VIVEKANANDA Higher Primary School KEMBHAVI  ", "latitude": 16.64602, "longitude": 76.52854 }, "geometry": { "type": "Point", "coordinates": [ 76.52854, 16.64602 ] } }
+,
+{ "type": "Feature", "id": 166, "properties": { "name": "Govt Lower Primary School H.W. KEMBHAVI  ", "latitude": 16.64731, "longitude": 76.53472 }, "geometry": { "type": "Point", "coordinates": [ 76.53472, 16.64731 ] } }
+,
+{ "type": "Feature", "id": 167, "properties": { "name": "Govt Lower Primary School SAI NAGAR KEMBHAVI  ", "latitude": 16.61939, "longitude": 76.51119 }, "geometry": { "type": "Point", "coordinates": [ 76.51119, 16.61939 ] } }
+,
+{ "type": "Feature", "id": 168, "properties": { "name": "Lower Primary School TALAGERI KEMBHAVI  ", "latitude": 16.65132, "longitude": 76.53527 }, "geometry": { "type": "Point", "coordinates": [ 76.53527, 16.65132 ] } }
+,
+{ "type": "Feature", "id": 169, "properties": { "name": "Lower Primary School JANATA COLONY KEMBHAVI  ", "latitude": 16.66239, "longitude": 76.5284 }, "geometry": { "type": "Point", "coordinates": [ 76.5284, 16.66239 ] } }
+,
+{ "type": "Feature", "id": 170, "properties": { "name": "GJC KEMBHAVI KEMBHAVI  ", "latitude": 16.64959, "longitude": 76.52867 }, "geometry": { "type": "Point", "coordinates": [ 76.52867, 16.64959 ] } }
+,
+{ "type": "Feature", "id": 171, "properties": { "name": "Govt High School GIRLS KEMBHAVI  ", "latitude": 16.64853, "longitude": 76.5288 }, "geometry": { "type": "Point", "coordinates": [ 76.5288, 16.64853 ] } }
+,
+{ "type": "Feature", "id": 172, "properties": { "name": "Govt High School URDU KEMBHAVI  ", "latitude": 16.65003, "longitude": 76.53227 }, "geometry": { "type": "Point", "coordinates": [ 76.53227, 16.65003 ] } }
+,
+{ "type": "Feature", "id": 173, "properties": { "name": "SRI VIDYALAKSHMI Lower Primary School KEMBHAVI  ", "latitude": 16.64162, "longitude": 76.5262 }, "geometry": { "type": "Point", "coordinates": [ 76.5262, 16.64162 ] } }
+,
+{ "type": "Feature", "id": 174, "properties": { "name": "HOLYFAITH Higher Primary School KEMBHAVI  ", "latitude": 16.65616, "longitude": 76.53523 }, "geometry": { "type": "Point", "coordinates": [ 76.53523, 16.65616 ] } }
+,
+{ "type": "Feature", "id": 175, "properties": { "name": "GOVT Higher Primary School KODEKAL  ", "latitude": 16.35025, "longitude": 76.40321 }, "geometry": { "type": "Point", "coordinates": [ 76.40321, 16.35025 ] } }
+,
+{ "type": "Feature", "id": 176, "properties": { "name": "Govt Lower Primary School KODEKAL PYATI  ", "latitude": 16.37293, "longitude": 76.3887 }, "geometry": { "type": "Point", "coordinates": [ 76.3887, 16.37293 ] } }
+,
+{ "type": "Feature", "id": 177, "properties": { "name": "Govt Lower Primary School KODEKAL   ", "latitude": 16.35247, "longitude": 76.3983 }, "geometry": { "type": "Point", "coordinates": [ 76.3983, 16.35247 ] } }
+,
+{ "type": "Feature", "id": 178, "properties": { "name": "Govt Lower Primary School URDU KODEKAL  ", "latitude": 16.35083, "longitude": 76.4037 }, "geometry": { "type": "Point", "coordinates": [ 76.4037, 16.35083 ] } }
+,
+{ "type": "Feature", "id": 179, "properties": { "name": "Lower Primary School PARUTANAYAK TANDA KODEKAL ", "latitude": 16.3562, "longitude": 76.45451 }, "geometry": { "type": "Point", "coordinates": [ 76.45451, 16.3562 ] } }
+,
+{ "type": "Feature", "id": 180, "properties": { "name": "MORARJI DESAI KODAKAL  ", "latitude": 16.35282, "longitude": 76.39802 }, "geometry": { "type": "Point", "coordinates": [ 76.39802, 16.35282 ] } }
+,
+{ "type": "Feature", "id": 181, "properties": { "name": "BORUKA Lower Primary School RAJANKOLUR  ", "latitude": 16.37627, "longitude": 76.46603 }, "geometry": { "type": "Point", "coordinates": [ 76.46603, 16.37627 ] } }
+,
+{ "type": "Feature", "id": 182, "properties": { "name": "GOVT Higher Primary School KOLIHALL  ", "latitude": 16.49349, "longitude": 76.46439 }, "geometry": { "type": "Point", "coordinates": [ 76.46439, 16.49349 ] } }
+,
+{ "type": "Feature", "id": 183, "properties": { "name": "Govt High School KOLIHAL   ", "latitude": 16.49374, "longitude": 76.4677 }, "geometry": { "type": "Point", "coordinates": [ 76.4677, 16.49374 ] } }
+,
+{ "type": "Feature", "id": 184, "properties": { "name": "GOVT Lower Primary School KOLIHALL N TANDA ", "latitude": 16.49277, "longitude": 76.4402 }, "geometry": { "type": "Point", "coordinates": [ 76.4402, 16.49277 ] } }
+,
+{ "type": "Feature", "id": 185, "properties": { "name": "GOVT Lower Primary School KOLIHALL TANDA  ", "latitude": 16.49042, "longitude": 76.45088 }, "geometry": { "type": "Point", "coordinates": [ 76.45088, 16.49042 ] } }
+,
+{ "type": "Feature", "id": 186, "properties": { "name": "GOVT Lower Primary School KOMLAPUR  ", "latitude": 16.30187, "longitude": 76.32728 }, "geometry": { "type": "Point", "coordinates": [ 76.32728, 16.30187 ] } }
+,
+{ "type": "Feature", "id": 187, "properties": { "name": "GOVT Higher Primary School KONAL  ", "latitude": 16.46193, "longitude": 76.66449 }, "geometry": { "type": "Point", "coordinates": [ 76.66449, 16.46193 ] } }
+,
+{ "type": "Feature", "id": 188, "properties": { "name": "GOVT Lower Primary School KOTEGUDDA  ", "latitude": 16.26966, "longitude": 76.37209 }, "geometry": { "type": "Point", "coordinates": [ 76.37209, 16.26966 ] } }
+,
+{ "type": "Feature", "id": 189, "properties": { "name": "KRISHNA (E.M) Lower Primary School KRISHNAPUR  ", "latitude": 16.55914, "longitude": 76.8184 }, "geometry": { "type": "Point", "coordinates": [ 76.8184, 16.55914 ] } }
+,
+{ "type": "Feature", "id": 190, "properties": { "name": "GOVT Higher Primary School KUDALAGI  ", "latitude": 16.57558, "longitude": 76.56768 }, "geometry": { "type": "Point", "coordinates": [ 76.56768, 16.57558 ] } }
+,
+{ "type": "Feature", "id": 191, "properties": { "name": "GOVT Higher Primary School KUPAGAL  ", "latitude": 16.49253, "longitude": 76.80824 }, "geometry": { "type": "Point", "coordinates": [ 76.80824, 16.49253 ] } }
+,
+{ "type": "Feature", "id": 192, "properties": { "name": "GOVT Lower Primary School KUPPI  ", "latitude": 16.4105, "longitude": 76.48451 }, "geometry": { "type": "Point", "coordinates": [ 76.48451, 16.4105 ] } }
+,
+{ "type": "Feature", "id": 193, "properties": { "name": "GOVT Lower Primary School KUPPI TANDA  ", "latitude": 16.42699, "longitude": 76.48785 }, "geometry": { "type": "Point", "coordinates": [ 76.48785, 16.42699 ] } }
+,
+{ "type": "Feature", "id": 194, "properties": { "name": "GOVT Higher Primary School LAXMAPUR  ", "latitude": 16.5374, "longitude": 76.80059 }, "geometry": { "type": "Point", "coordinates": [ 76.80059, 16.5374 ] } }
+,
+{ "type": "Feature", "id": 195, "properties": { "name": "Govt Lower Primary School LAKSHMANKERE LAXMAPUR  ", "latitude": 16.28227, "longitude": 76.37767 }, "geometry": { "type": "Point", "coordinates": [ 76.37767, 16.28227 ] } }
+,
+{ "type": "Feature", "id": 196, "properties": { "name": "Govt High School LAKSHMIPUR LAXMAPUR  ", "latitude": 16.53777, "longitude": 76.8006 }, "geometry": { "type": "Point", "coordinates": [ 76.8006, 16.53777 ] } }
+,
+{ "type": "Feature", "id": 197, "properties": { "name": "GOVT Lower Primary School LINGADALLI +AFs-S.H.+AF0-  ", "latitude": 16.49481, "longitude": 76.82259 }, "geometry": { "type": "Point", "coordinates": [ 76.82259, 16.49481 ] } }
+,
+{ "type": "Feature", "id": 198, "properties": { "name": "GOVT Higher Primary School LINGADALLI (A)  ", "latitude": 16.36547, "longitude": 76.63155 }, "geometry": { "type": "Point", "coordinates": [ 76.63155, 16.36547 ] } }
+,
+{ "type": "Feature", "id": 199, "properties": { "name": "GOVT Higher Primary School MACHIGUNDAL  ", "latitude": 16.5926, "longitude": 76.70586 }, "geometry": { "type": "Point", "coordinates": [ 76.70586, 16.5926 ] } }
+,
+{ "type": "Feature", "id": 200, "properties": { "name": "GOVT Lower Primary School MACHIGUNDAL CAMP  ", "latitude": 16.58926, "longitude": 76.70344 }, "geometry": { "type": "Point", "coordinates": [ 76.70344, 16.58926 ] } }
+,
+{ "type": "Feature", "id": 201, "properties": { "name": "Lower Primary School MACHGUNDAL DODDI  ", "latitude": 16.60291, "longitude": 76.71268 }, "geometry": { "type": "Point", "coordinates": [ 76.71268, 16.60291 ] } }
+,
+{ "type": "Feature", "id": 202, "properties": { "name": "GOVT Higher Primary School MADILINGNAL  ", "latitude": 16.34477, "longitude": 76.32574 }, "geometry": { "type": "Point", "coordinates": [ 76.32574, 16.34477 ] } }
+,
+{ "type": "Feature", "id": 203, "properties": { "name": "GOVT Higher Primary School MANGALOR  ", "latitude": 16.55147, "longitude": 76.63731 }, "geometry": { "type": "Point", "coordinates": [ 76.63731, 16.55147 ] } }
+,
+{ "type": "Feature", "id": 204, "properties": { "name": "GOVT Higher Primary School MANGIHAL  ", "latitude": 16.49497, "longitude": 76.67104 }, "geometry": { "type": "Point", "coordinates": [ 76.67104, 16.49497 ] } }
+,
+{ "type": "Feature", "id": 205, "properties": { "name": "GOVT Lower Primary School MAJULAPURHALLI  ", "latitude": 16.41986, "longitude": 76.54592 }, "geometry": { "type": "Point", "coordinates": [ 76.54592, 16.41986 ] } }
+,
+{ "type": "Feature", "id": 206, "properties": { "name": "Lower Primary School ANJANEYA CAMP  ", "latitude": 16.60076, "longitude": 76.68351 }, "geometry": { "type": "Point", "coordinates": [ 76.68351, 16.60076 ] } }
+,
+{ "type": "Feature", "id": 207, "properties": { "name": "GOVT Lower Primary School MALKARJUN DODDI  ", "latitude": 16.35456, "longitude": 76.58479 }, "geometry": { "type": "Point", "coordinates": [ 76.58479, 16.35456 ] } }
+,
+{ "type": "Feature", "id": 208, "properties": { "name": "Lower Primary School MALKAPUR MALAKAPUR  ", "latitude": 16.6278, "longitude": 76.46267 }, "geometry": { "type": "Point", "coordinates": [ 76.46267, 16.6278 ] } }
+,
+{ "type": "Feature", "id": 209, "properties": { "name": "GOVT Higher Primary School MALNOOR  ", "latitude": 16.44961, "longitude": 76.44356 }, "geometry": { "type": "Point", "coordinates": [ 76.44356, 16.44961 ] } }
+,
+{ "type": "Feature", "id": 210, "properties": { "name": "Govt Lower Primary School URDU MALANOOR  ", "latitude": 16.4498, "longitude": 76.44432 }, "geometry": { "type": "Point", "coordinates": [ 76.44432, 16.4498 ] } }
+,
+{ "type": "Feature", "id": 211, "properties": { "name": "GOVT Higher Primary School MALLA +AFs-B+AF0-  ", "latitude": 16.73788, "longitude": 76.56383 }, "geometry": { "type": "Point", "coordinates": [ 76.56383, 16.73788 ] } }
+,
+{ "type": "Feature", "id": 212, "properties": { "name": "GOVT Lower Primary School MALLA K  ", "latitude": 16.74197, "longitude": 76.56735 }, "geometry": { "type": "Point", "coordinates": [ 76.56735, 16.74197 ] } }
+,
+{ "type": "Feature", "id": 213, "properties": { "name": "GOVT Lower Primary School MALLIBHAVI  ", "latitude": 16.53635, "longitude": 76.72218 }, "geometry": { "type": "Point", "coordinates": [ 76.72218, 16.53635 ] } }
+,
+{ "type": "Feature", "id": 214, "properties": { "name": "GOVT Higher Primary School MANJALAPUR  ", "latitude": 16.41398, "longitude": 76.59458 }, "geometry": { "type": "Point", "coordinates": [ 76.59458, 16.41398 ] } }
+,
+{ "type": "Feature", "id": 215, "properties": { "name": "GOVT Higher Primary School MARALBHAVI  ", "latitude": 16.42939, "longitude": 76.42546 }, "geometry": { "type": "Point", "coordinates": [ 76.42546, 16.42939 ] } }
+,
+{ "type": "Feature", "id": 216, "properties": { "name": "GOVT Higher Primary School MARNAL  ", "latitude": 16.31956, "longitude": 76.34824 }, "geometry": { "type": "Point", "coordinates": [ 76.34824, 16.31956 ] } }
+,
+{ "type": "Feature", "id": 217, "properties": { "name": "Govt Lower Primary School DIBBI CAMP MARNAL  ", "latitude": 16.31344, "longitude": 76.36133 }, "geometry": { "type": "Point", "coordinates": [ 76.36133, 16.31344 ] } }
+,
+{ "type": "Feature", "id": 218, "properties": { "name": "GOVT Lower Primary School MARNAL TANDA  ", "latitude": 16.31984, "longitude": 76.36129 }, "geometry": { "type": "Point", "coordinates": [ 76.36129, 16.31984 ] } }
+,
+{ "type": "Feature", "id": 219, "properties": { "name": "GOVT Lower Primary School MAVINMATTI  ", "latitude": 16.57147, "longitude": 76.63956 }, "geometry": { "type": "Point", "coordinates": [ 76.63956, 16.57147 ] } }
+,
+{ "type": "Feature", "id": 220, "properties": { "name": "GOVT Lower Primary School MELINAGADDI  ", "latitude": 16.22135, "longitude": 76.36767 }, "geometry": { "type": "Point", "coordinates": [ 76.36767, 16.22135 ] } }
+,
+{ "type": "Feature", "id": 221, "properties": { "name": "GOVT Lower Primary School JANATHA COLONY MUDANOOR B. ", "latitude": 16.6053, "longitude": 76.4799 }, "geometry": { "type": "Point", "coordinates": [ 76.4799, 16.6053 ] } }
+,
+{ "type": "Feature", "id": 222, "properties": { "name": "GOVT Higher Primary School MUDANOOR K  ", "latitude": 16.60111, "longitude": 76.49085 }, "geometry": { "type": "Point", "coordinates": [ 76.49085, 16.60111 ] } }
+,
+{ "type": "Feature", "id": 223, "properties": { "name": "GOVT KANYA Lower Primary School MUDANOOR  ", "latitude": 16.60128, "longitude": 76.49082 }, "geometry": { "type": "Point", "coordinates": [ 76.49082, 16.60128 ] } }
+,
+{ "type": "Feature", "id": 224, "properties": { "name": "GOVT Lower Primary School MUDANOOR K  ", "latitude": 16.60739, "longitude": 76.49074 }, "geometry": { "type": "Point", "coordinates": [ 76.49074, 16.60739 ] } }
+,
+{ "type": "Feature", "id": 225, "properties": { "name": "GOVT Higher Primary School MUSTAHALLI  ", "latitude": 16.43472, "longitude": 76.77657 }, "geometry": { "type": "Point", "coordinates": [ 76.77657, 16.43472 ] } }
+,
+{ "type": "Feature", "id": 226, "properties": { "name": "GOVT Higher Primary School NAGANOOR  ", "latitude": 16.68732, "longitude": 76.6009 }, "geometry": { "type": "Point", "coordinates": [ 76.6009, 16.68732 ] } }
+,
+{ "type": "Feature", "id": 227, "properties": { "name": "GOVT Lower Primary School G.G.COLONY  ", "latitude": 16.67721, "longitude": 76.61822 }, "geometry": { "type": "Point", "coordinates": [ 76.61822, 16.67721 ] } }
+,
+{ "type": "Feature", "id": 228, "properties": { "name": "GOVT Lower Primary School URDU NAGANOOR  ", "latitude": 16.68665, "longitude": 76.60034 }, "geometry": { "type": "Point", "coordinates": [ 76.60034, 16.68665 ] } }
+,
+{ "type": "Feature", "id": 229, "properties": { "name": "GOVT Lower Primary School JANATHA COLONY  ", "latitude": 16.68757, "longitude": 76.6047 }, "geometry": { "type": "Point", "coordinates": [ 76.6047, 16.68757 ] } }
+,
+{ "type": "Feature", "id": 230, "properties": { "name": "Govt High School NAGANURU NAGANOOR  ", "latitude": 16.6793, "longitude": 76.61267 }, "geometry": { "type": "Point", "coordinates": [ 76.61267, 16.6793 ] } }
+,
+{ "type": "Feature", "id": 231, "properties": { "name": "SHARANABASAVESHWARA Lower Primary School NAGANOOR  ", "latitude": 16.68753, "longitude": 76.6048 }, "geometry": { "type": "Point", "coordinates": [ 76.6048, 16.68753 ] } }
+,
+{ "type": "Feature", "id": 232, "properties": { "name": "SRI BASAVESHWARA Lower Primary School NAGANOOR  ", "latitude": 16.68794, "longitude": 76.60294 }, "geometry": { "type": "Point", "coordinates": [ 76.60294, 16.68794 ] } }
+,
+{ "type": "Feature", "id": 233, "properties": { "name": "GOVT Lower Primary School NAGARAL  ", "latitude": 16.45384, "longitude": 76.7001 }, "geometry": { "type": "Point", "coordinates": [ 76.7001, 16.45384 ] } }
+,
+{ "type": "Feature", "id": 234, "properties": { "name": "GOVT Higher Primary School NARAYANPUR CAMP  ", "latitude": 16.25593, "longitude": 76.36835 }, "geometry": { "type": "Point", "coordinates": [ 76.36835, 16.25593 ] } }
+,
+{ "type": "Feature", "id": 235, "properties": { "name": "GOVT Higher Primary School NARAYANPUR HALLI  ", "latitude": 16.2578, "longitude": 76.37911 }, "geometry": { "type": "Point", "coordinates": [ 76.37911, 16.2578 ] } }
+,
+{ "type": "Feature", "id": 236, "properties": { "name": "AIDED Lower Primary School NARAYANPUR I.B.TANDA  ", "latitude": 16.25774, "longitude": 76.35857 }, "geometry": { "type": "Point", "coordinates": [ 76.35857, 16.25774 ] } }
+,
+{ "type": "Feature", "id": 237, "properties": { "name": "UNAIDED Lower Primary School B.E.S.N.PUR  ", "latitude": 16.25408, "longitude": 76.37619 }, "geometry": { "type": "Point", "coordinates": [ 76.37619, 16.25408 ] } }
+,
+{ "type": "Feature", "id": 238, "properties": { "name": "J S DESHMUKH KAN Lower Primary School N.PUR ", "latitude": 16.25704, "longitude": 76.36983 }, "geometry": { "type": "Point", "coordinates": [ 76.36983, 16.25704 ] } }
+,
+{ "type": "Feature", "id": 239, "properties": { "name": "Govt Lower Primary School URDU NARAYANPUR CAMP  ", "latitude": 16.25426, "longitude": 76.3739 }, "geometry": { "type": "Point", "coordinates": [ 76.3739, 16.25426 ] } }
+,
+{ "type": "Feature", "id": 240, "properties": { "name": "Govt Lower Primary School MOUNESHWAR CAMP NARAYANPUR  ", "latitude": 16.2601, "longitude": 76.37681 }, "geometry": { "type": "Point", "coordinates": [ 76.37681, 16.2601 ] } }
+,
+{ "type": "Feature", "id": 241, "properties": { "name": "GJC NARAYANPUR   ", "latitude": 16.25591, "longitude": 76.3693 }, "geometry": { "type": "Point", "coordinates": [ 76.3693, 16.25591 ] } }
+,
+{ "type": "Feature", "id": 242, "properties": { "name": "GOVT Lower Primary School NARSINGPETH  ", "latitude": 16.50704, "longitude": 76.74814 }, "geometry": { "type": "Point", "coordinates": [ 76.74814, 16.50704 ] } }
+,
+{ "type": "Feature", "id": 243, "properties": { "name": "GOVT Higher Primary School NINGAPUR M  ", "latitude": 16.41368, "longitude": 76.57065 }, "geometry": { "type": "Point", "coordinates": [ 76.57065, 16.41368 ] } }
+,
+{ "type": "Feature", "id": 244, "properties": { "name": "GOVT Higher Primary School PERGARDODDI  ", "latitude": 16.38433, "longitude": 76.62392 }, "geometry": { "type": "Point", "coordinates": [ 76.62392, 16.38433 ] } }
+,
+{ "type": "Feature", "id": 245, "properties": { "name": "Govt Lower Primary School PEERANAYAK TANDA (KAKKERAS)  ", "latitude": 16.35785, "longitude": 76.55194 }, "geometry": { "type": "Point", "coordinates": [ 76.55194, 16.35785 ] } }
+,
+{ "type": "Feature", "id": 246, "properties": { "name": "GOVT Higher Primary School PETH AMMAPUR  ", "latitude": 16.53425, "longitude": 76.66843 }, "geometry": { "type": "Point", "coordinates": [ 76.66843, 16.53425 ] } }
+,
+{ "type": "Feature", "id": 247, "properties": { "name": "Higher Primary School SAGARNADU PETH  ", "latitude": 16.53516, "longitude": 76.66883 }, "geometry": { "type": "Point", "coordinates": [ 76.66883, 16.53516 ] } }
+,
+{ "type": "Feature", "id": 248, "properties": { "name": "Lower Primary School BASAVA CAMP  ", "latitude": 16.55125, "longitude": 76.64826 }, "geometry": { "type": "Point", "coordinates": [ 76.64826, 16.55125 ] } }
+,
+{ "type": "Feature", "id": 249, "properties": { "name": "SAGARANADU High School PETA AMMAPUR  ", "latitude": 16.53516, "longitude": 76.67033 }, "geometry": { "type": "Point", "coordinates": [ 76.67033, 16.53516 ] } }
+,
+{ "type": "Feature", "id": 250, "properties": { "name": "GOVT Lower Primary School R.DASARGOTA  ", "latitude": 16.33685, "longitude": 76.4324 }, "geometry": { "type": "Point", "coordinates": [ 76.4324, 16.33685 ] } }
+,
+{ "type": "Feature", "id": 251, "properties": { "name": "GOVT Lower Primary School RAIGERA  ", "latitude": 16.43186, "longitude": 76.61775 }, "geometry": { "type": "Point", "coordinates": [ 76.61775, 16.43186 ] } }
+,
+{ "type": "Feature", "id": 252, "properties": { "name": "GOVT Higher Primary School RAJANKOLLUR  ", "latitude": 16.37822, "longitude": 76.45818 }, "geometry": { "type": "Point", "coordinates": [ 76.45818, 16.37822 ] } }
+,
+{ "type": "Feature", "id": 253, "properties": { "name": "Govt Lower Primary School RAJANKOLLUR CAMP  ", "latitude": 16.37412, "longitude": 76.45838 }, "geometry": { "type": "Point", "coordinates": [ 76.45838, 16.37412 ] } }
+,
+{ "type": "Feature", "id": 254, "properties": { "name": "Govt High School RAJANKOLUR RAJANKOLLUR  ", "latitude": 16.37582, "longitude": 76.45969 }, "geometry": { "type": "Point", "coordinates": [ 76.45969, 16.37582 ] } }
+,
+{ "type": "Feature", "id": 255, "properties": { "name": "GOVT Lower Primary School RAJANKOLLUR TANDA  ", "latitude": 16.36773, "longitude": 76.44723 }, "geometry": { "type": "Point", "coordinates": [ 76.44723, 16.36773 ] } }
+,
+{ "type": "Feature", "id": 256, "properties": { "name": "K R CHANAMMA (ENG) Higher Primary School RAJANKOLUR ", "latitude": 16.37592, "longitude": 76.4599 }, "geometry": { "type": "Point", "coordinates": [ 76.4599, 16.37592 ] } }
+,
+{ "type": "Feature", "id": 257, "properties": { "name": "GOVT Lower Primary School RAJWAL  ", "latitude": 16.33679, "longitude": 76.47661 }, "geometry": { "type": "Point", "coordinates": [ 76.47661, 16.33679 ] } }
+,
+{ "type": "Feature", "id": 258, "properties": { "name": "Govt Higher Primary School RAJAWAL TANDA  ", "latitude": 16.3209, "longitude": 76.45698 }, "geometry": { "type": "Point", "coordinates": [ 76.45698, 16.3209 ] } }
+,
+{ "type": "Feature", "id": 259, "properties": { "name": "GOVT Higher Primary School RAMPUR  ", "latitude": 16.59536, "longitude": 76.50152 }, "geometry": { "type": "Point", "coordinates": [ 76.50152, 16.59536 ] } }
+,
+{ "type": "Feature", "id": 260, "properties": { "name": "GOVT Lower Primary School RANGAMPETH  ", "latitude": 16.52919, "longitude": 76.7654 }, "geometry": { "type": "Point", "coordinates": [ 76.7654, 16.52919 ] } }
+,
+{ "type": "Feature", "id": 261, "properties": { "name": "AIDED Higher Primary School VIVEKANDA RANGAMPETH  ", "latitude": 16.52954, "longitude": 76.76735 }, "geometry": { "type": "Point", "coordinates": [ 76.76735, 16.52954 ] } }
+,
+{ "type": "Feature", "id": 262, "properties": { "name": "AIDEDD Higher Primary School B.S.A RANGAMPETH  ", "latitude": 16.53053, "longitude": 76.76937 }, "geometry": { "type": "Point", "coordinates": [ 76.76937, 16.53053 ] } }
+,
+{ "type": "Feature", "id": 263, "properties": { "name": "AIDED AL+AC0-AMEEN RANGAMPETH  ", "latitude": 16.53168, "longitude": 76.77021 }, "geometry": { "type": "Point", "coordinates": [ 76.77021, 16.53168 ] } }
+,
+{ "type": "Feature", "id": 264, "properties": { "name": "AIDED K B URDU  ", "latitude": 16.53349, "longitude": 76.76813 }, "geometry": { "type": "Point", "coordinates": [ 76.76813, 16.53349 ] } }
+,
+{ "type": "Feature", "id": 265, "properties": { "name": "FOUKHANIYA ARABIC SCHOOL RANGA  ", "latitude": 16.53128, "longitude": 76.76812 }, "geometry": { "type": "Point", "coordinates": [ 76.76812, 16.53128 ] } }
+,
+{ "type": "Feature", "id": 266, "properties": { "name": "GJC RANGAMPET RANGAMPETH  ", "latitude": 16.52903, "longitude": 76.77257 }, "geometry": { "type": "Point", "coordinates": [ 76.77257, 16.52903 ] } }
+,
+{ "type": "Feature", "id": 267, "properties": { "name": "LITLE FLOWER Lower Primary School RANGAMPETH ", "latitude": 16.53173, "longitude": 76.7692 }, "geometry": { "type": "Point", "coordinates": [ 76.7692, 16.53173 ] } }
+,
+{ "type": "Feature", "id": 268, "properties": { "name": "MADRAS ARBIYA MADINATUL ULOOM R.PET ", "latitude": 16.53405, "longitude": 76.7677 }, "geometry": { "type": "Point", "coordinates": [ 76.7677, 16.53405 ] } }
+,
+{ "type": "Feature", "id": 269, "properties": { "name": "MADRAS ARBIYA TAYABATUL BANAT R.PET ", "latitude": 16.53208, "longitude": 76.76707 }, "geometry": { "type": "Point", "coordinates": [ 76.76707, 16.53208 ] } }
+,
+{ "type": "Feature", "id": 270, "properties": { "name": "MADARSA ARBIA IQRA D. ULOOM H.PUR RANGAMPETH", "latitude": 16.53293, "longitude": 76.78594 }, "geometry": { "type": "Point", "coordinates": [ 76.78594, 16.53293 ] } }
+,
+{ "type": "Feature", "id": 271, "properties": { "name": "PRIYADARSHINI High School RANGAMPET RANGAMPETH ", "latitude": 16.5305, "longitude": 76.76934 }, "geometry": { "type": "Point", "coordinates": [ 76.76934, 16.5305 ] } }
+,
+{ "type": "Feature", "id": 272, "properties": { "name": "SWAMI VIVEKANANDA KANYA High School R.PET ", "latitude": 16.5295, "longitude": 76.76745 }, "geometry": { "type": "Point", "coordinates": [ 76.76745, 16.5295 ] } }
+,
+{ "type": "Feature", "id": 273, "properties": { "name": "SUDEEP SHIKSHANA SAMSTE R.PET  ", "latitude": 16.52924, "longitude": 76.76888 }, "geometry": { "type": "Point", "coordinates": [ 76.76888, 16.52924 ] } }
+,
+{ "type": "Feature", "id": 274, "properties": { "name": "CHIRST THE KING Higher Primary School RANGAMPET ", "latitude": 16.53052, "longitude": 76.77013 }, "geometry": { "type": "Point", "coordinates": [ 76.77013, 16.53052 ] } }
+,
+{ "type": "Feature", "id": 275, "properties": { "name": "GOVT Higher Primary School RATAL RATAL ", "latitude": 16.55774, "longitude": 76.76704 }, "geometry": { "type": "Point", "coordinates": [ 76.76704, 16.55774 ] } }
+,
+{ "type": "Feature", "id": 276, "properties": { "name": "GOVT Higher Primary School RAYANGOLA RAYANGOLA ", "latitude": 16.28988, "longitude": 76.40546 }, "geometry": { "type": "Point", "coordinates": [ 76.40546, 16.28988 ] } }
+,
+{ "type": "Feature", "id": 277, "properties": { "name": "GOVT Higher Primary School RUKAMAPUR RUKAMAPUR ", "latitude": 16.50674, "longitude": 76.78603 }, "geometry": { "type": "Point", "coordinates": [ 76.78603, 16.50674 ] } }
+,
+{ "type": "Feature", "id": 278, "properties": { "name": "SMT LOKAMBA Higher Primary School RUKMAPUR  ", "latitude": 16.50698, "longitude": 76.78322 }, "geometry": { "type": "Point", "coordinates": [ 76.78322, 16.50698 ] } }
+,
+{ "type": "Feature", "id": 279, "properties": { "name": "Govt Lower Primary School KBC RUKMAPUR RUKAMAPUR ", "latitude": 16.50739, "longitude": 76.77537 }, "geometry": { "type": "Point", "coordinates": [ 76.77537, 16.50739 ] } }
+,
+{ "type": "Feature", "id": 280, "properties": { "name": "MAHARISHI VALAMIKI High School  RUKAMAPUR  ", "latitude": 16.50609, "longitude": 76.78008 }, "geometry": { "type": "Point", "coordinates": [ 76.78008, 16.50609 ] } }
+,
+{ "type": "Feature", "id": 281, "properties": { "name": "GOVT Lower Primary School MUSTURDDODI RUKAMAPUR ", "latitude": 16.48924, "longitude": 76.74157 }, "geometry": { "type": "Point", "coordinates": [ 76.74157, 16.48924 ] } }
+,
+{ "type": "Feature", "id": 282, "properties": { "name": "GOVT Lower Primary School RAYANPAL RAYANPAL ", "latitude": 16.35272, "longitude": 76.43981 }, "geometry": { "type": "Point", "coordinates": [ 76.43981, 16.35272 ] } }
+,
+{ "type": "Feature", "id": 283, "properties": { "name": "GOVT Higher Primary School SATYAMPETH SATYAMPETH ", "latitude": 16.53013, "longitude": 76.78974 }, "geometry": { "type": "Point", "coordinates": [ 76.78974, 16.53013 ] } }
+,
+{ "type": "Feature", "id": 284, "properties": { "name": "Govt Lower Primary School SATYAMPETH (KERE) SATYAMPETH ", "latitude": 16.53485, "longitude": 76.79125 }, "geometry": { "type": "Point", "coordinates": [ 76.79125, 16.53485 ] } }
+,
+{ "type": "Feature", "id": 285, "properties": { "name": "GOVT Lower Primary School SHAKAPUR T  ", "latitude": 16.58255, "longitude": 76.53606 }, "geometry": { "type": "Point", "coordinates": [ 76.53606, 16.58255 ] } }
+,
+{ "type": "Feature", "id": 286, "properties": { "name": "GOVT Lower Primary School SHAKAPUR +AFs-S.H.+AF0-  ", "latitude": 16.51717, "longitude": 76.83507 }, "geometry": { "type": "Point", "coordinates": [ 76.83507, 16.51717 ] } }
+,
+{ "type": "Feature", "id": 287, "properties": { "name": "GOVT Higher Primary School SHANTAPUR SHANTAPUR ", "latitude": 16.38769, "longitude": 76.65726 }, "geometry": { "type": "Point", "coordinates": [ 76.65726, 16.38769 ] } }
+,
+{ "type": "Feature", "id": 288, "properties": { "name": "GOVT Higher Primary School SHELLGI SHELLGI ", "latitude": 16.44674, "longitude": 76.76662 }, "geometry": { "type": "Point", "coordinates": [ 76.76662, 16.44674 ] } }
+,
+{ "type": "Feature", "id": 289, "properties": { "name": "GOVT Higher Primary School MEDARGALLI SHORAPUR  ", "latitude": 16.5181, "longitude": 76.7563 }, "geometry": { "type": "Point", "coordinates": [ 76.7563, 16.5181 ] } }
+,
+{ "type": "Feature", "id": 290, "properties": { "name": "GOVT Higher Primary School SHENSHEDAPUR SHORAPUR  ", "latitude": 16.52107, "longitude": 76.75471 }, "geometry": { "type": "Point", "coordinates": [ 76.75471, 16.52107 ] } }
+,
+{ "type": "Feature", "id": 291, "properties": { "name": "GOVT Lower Primary School ZADAKERA SHORAPUR  ", "latitude": 16.52774, "longitude": 76.75805 }, "geometry": { "type": "Point", "coordinates": [ 76.75805, 16.52774 ] } }
+,
+{ "type": "Feature", "id": 292, "properties": { "name": "GOVT Lower Primary School POLICE COLONY SHORAPUR ", "latitude": 16.52256, "longitude": 76.74782 }, "geometry": { "type": "Point", "coordinates": [ 76.74782, 16.52256 ] } }
+,
+{ "type": "Feature", "id": 293, "properties": { "name": "GOVT Lower Primary School UDDARONI SHORAPUR  ", "latitude": 16.52448, "longitude": 76.76122 }, "geometry": { "type": "Point", "coordinates": [ 76.76122, 16.52448 ] } }
+,
+{ "type": "Feature", "id": 294, "properties": { "name": "GOVT Higher Primary School KABADGERA SHORAPUR  ", "latitude": 16.52031, "longitude": 76.76341 }, "geometry": { "type": "Point", "coordinates": [ 76.76341, 16.52031 ] } }
+,
+{ "type": "Feature", "id": 295, "properties": { "name": "GOVT Higher Primary School QURESIMOHALLA SHORAPU  ", "latitude": 16.51793, "longitude": 76.76441 }, "geometry": { "type": "Point", "coordinates": [ 76.76441, 16.51793 ] } }
+,
+{ "type": "Feature", "id": 296, "properties": { "name": "GOVT URDU Higher Primary School SHORAPUR  ", "latitude": 16.52278, "longitude": 76.75811 }, "geometry": { "type": "Point", "coordinates": [ 76.75811, 16.52278 ] } }
+,
+{ "type": "Feature", "id": 297, "properties": { "name": "GOVT URDU Higher Primary School KABADAGERA SHORAPUR ", "latitude": 16.52036, "longitude": 76.76403 }, "geometry": { "type": "Point", "coordinates": [ 76.76403, 16.52036 ] } }
+,
+{ "type": "Feature", "id": 298, "properties": { "name": "GOVT Lower Primary School BHOVIGALLI SHORAPUR ", "latitude": 16.51785, "longitude": 76.7598 }, "geometry": { "type": "Point", "coordinates": [ 76.7598, 16.51785 ] } }
+,
+{ "type": "Feature", "id": 299, "properties": { "name": "Higher Primary School JANAKI DEVI  ", "latitude": 16.51978, "longitude": 76.75891 }, "geometry": { "type": "Point", "coordinates": [ 76.75891, 16.51978 ] } }
+,
+{ "type": "Feature", "id": 300, "properties": { "name": "GOVT Lower Primary School PALDAKERI SHORAPUR ", "latitude": 16.51524, "longitude": 76.76358 }, "geometry": { "type": "Point", "coordinates": [ 76.76358, 16.51524 ] } }
+,
+{ "type": "Feature", "id": 301, "properties": { "name": "GOVT Higher Primary School MAGIRIONI SHORAPUR ", "latitude": 16.52345, "longitude": 76.75701 }, "geometry": { "type": "Point", "coordinates": [ 76.75701, 16.52345 ] } }
+,
+{ "type": "Feature", "id": 302, "properties": { "name": "GOVT KANYA Model Primary School SHORAPUR ", "latitude": 16.52214, "longitude": 76.75819 }, "geometry": { "type": "Point", "coordinates": [ 76.75819, 16.52214 ] } }
+,
+{ "type": "Feature", "id": 303, "properties": { "name": "AMBEDKAR V.V.S RESIDENTIAL SHORAPUR ", "latitude": 16.53597, "longitude": 76.79023 }, "geometry": { "type": "Point", "coordinates": [ 76.79023, 16.53597 ] } }
+,
+{ "type": "Feature", "id": 304, "properties": { "name": "GAYATHRI KAN Higher Primary School SHORAPUR  ", "latitude": 16.5233, "longitude": 76.76044 }, "geometry": { "type": "Point", "coordinates": [ 76.76044, 16.5233 ] } }
+,
+{ "type": "Feature", "id": 305, "properties": { "name": "ANANDA VIDYALAYA Higher Primary School  SHORAPUR  ", "latitude": 16.51533, "longitude": 76.75261 }, "geometry": { "type": "Point", "coordinates": [ 76.75261, 16.51533 ] } }
+,
+{ "type": "Feature", "id": 306, "properties": { "name": "VES ENG. MED SCHOOL  ", "latitude": 16.51925, "longitude": 76.75992 }, "geometry": { "type": "Point", "coordinates": [ 76.75992, 16.51925 ] } }
+,
+{ "type": "Feature", "id": 307, "properties": { "name": "PRIAYADARSHINI Higher Primary School GONALKERI SHORAPUR ", "latitude": 16.52602, "longitude": 76.76161 }, "geometry": { "type": "Point", "coordinates": [ 76.76161, 16.52602 ] } }
+,
+{ "type": "Feature", "id": 308, "properties": { "name": "CHRIST THE KING CONVENT RANGAM ", "latitude": 16.51794, "longitude": 76.76165 }, "geometry": { "type": "Point", "coordinates": [ 76.76165, 16.51794 ] } }
+,
+{ "type": "Feature", "id": 309, "properties": { "name": "GNYANODAYA Lower Primary School SHORAPUR  ", "latitude": 16.51879, "longitude": 76.75715 }, "geometry": { "type": "Point", "coordinates": [ 76.75715, 16.51879 ] } }
+,
+{ "type": "Feature", "id": 310, "properties": { "name": "GJC BOYS SHORAPUR  ", "latitude": 16.52553, "longitude": 76.76106 }, "geometry": { "type": "Point", "coordinates": [ 76.76106, 16.52553 ] } }
+,
+{ "type": "Feature", "id": 311, "properties": { "name": "GJC GIRLS SHORAPUR  ", "latitude": 16.52239, "longitude": 76.7585 }, "geometry": { "type": "Point", "coordinates": [ 76.7585, 16.52239 ] } }
+,
+{ "type": "Feature", "id": 312, "properties": { "name": "GNYANODAYA High School SHORAPUR  ", "latitude": 16.51769, "longitude": 76.75489 }, "geometry": { "type": "Point", "coordinates": [ 76.75489, 16.51769 ] } }
+,
+{ "type": "Feature", "id": 313, "properties": { "name": "SRI GAYATRI HIGH SCHOOL  ", "latitude": 16.52259, "longitude": 76.75919 }, "geometry": { "type": "Point", "coordinates": [ 76.75919, 16.52259 ] } }
+,
+{ "type": "Feature", "id": 314, "properties": { "name": "SARVODAYA High School SHORAPUR  ", "latitude": 16.51949, "longitude": 76.7598 }, "geometry": { "type": "Point", "coordinates": [ 76.7598, 16.51949 ] } }
+,
+{ "type": "Feature", "id": 315, "properties": { "name": "GOVT Lower Primary School URDU QURESHIMOLA SHORAPUR ", "latitude": 16.51806, "longitude": 76.76451 }, "geometry": { "type": "Point", "coordinates": [ 76.76451, 16.51806 ] } }
+,
+{ "type": "Feature", "id": 316, "properties": { "name": "VIDYA NIKETANA Higher Primary School SHORAPUR  ", "latitude": 16.52077, "longitude": 76.76028 }, "geometry": { "type": "Point", "coordinates": [ 76.76028, 16.52077 ] } }
+,
+{ "type": "Feature", "id": 317, "properties": { "name": "AKSHARDHAM Lower Primary School R.K.GALLI SURPUR  ", "latitude": 16.52301, "longitude": 76.75957 }, "geometry": { "type": "Point", "coordinates": [ 76.75957, 16.52301 ] } }
+,
+{ "type": "Feature", "id": 318, "properties": { "name": "SHETTI COMPITETION Lower Primary School SHORAPUR  ", "latitude": 16.5246, "longitude": 76.76019 }, "geometry": { "type": "Point", "coordinates": [ 76.76019, 16.5246 ] } }
+,
+{ "type": "Feature", "id": 319, "properties": { "name": "GOVT Lower Primary School SIDDAPURGUDI  ", "latitude": 16.54195, "longitude": 76.74179 }, "geometry": { "type": "Point", "coordinates": [ 76.74179, 16.54195 ] } }
+,
+{ "type": "Feature", "id": 320, "properties": { "name": "GOVT Higher Primary School SIDDAPUR +AFs-B+AF0-  ", "latitude": 16.44497, "longitude": 76.59007 }, "geometry": { "type": "Point", "coordinates": [ 76.59007, 16.44497 ] } }
+,
+{ "type": "Feature", "id": 321, "properties": { "name": "Lower Primary School VALMIKI NAGAR SIDDAPUR(B)  ", "latitude": 16.45473, "longitude": 76.60063 }, "geometry": { "type": "Point", "coordinates": [ 76.60063, 16.45473 ] } }
+,
+{ "type": "Feature", "id": 322, "properties": { "name": "GOVT Lower Primary School SRINIVASPUR TANDA  ", "latitude": 16.45023, "longitude": 76.552 }, "geometry": { "type": "Point", "coordinates": [ 76.552, 16.45023 ] } }
+,
+{ "type": "Feature", "id": 323, "properties": { "name": "GOVT Lower Primary School SRINIVASPUR  ", "latitude": 16.42684, "longitude": 76.55021 }, "geometry": { "type": "Point", "coordinates": [ 76.55021, 16.42684 ] } }
+,
+{ "type": "Feature", "id": 324, "properties": { "name": "GOVT Higher Primary School SUGUR  ", "latitude": 16.43967, "longitude": 76.81675 }, "geometry": { "type": "Point", "coordinates": [ 76.81675, 16.43967 ] } }
+,
+{ "type": "Feature", "id": 325, "properties": { "name": "Govt High School SUGUR   ", "latitude": 16.44812, "longitude": 76.81717 }, "geometry": { "type": "Point", "coordinates": [ 76.81717, 16.44812 ] } }
+,
+{ "type": "Feature", "id": 326, "properties": { "name": "GOVT Lower Primary School TALWARGERA  ", "latitude": 16.51596, "longitude": 76.70619 }, "geometry": { "type": "Point", "coordinates": [ 76.70619, 16.51596 ] } }
+,
+{ "type": "Feature", "id": 327, "properties": { "name": "GOVT Higher Primary School TEGELLI  ", "latitude": 16.5812, "longitude": 76.53153 }, "geometry": { "type": "Point", "coordinates": [ 76.53153, 16.5812 ] } }
+,
+{ "type": "Feature", "id": 328, "properties": { "name": "GOVT Higher Primary School TINTHANI  ", "latitude": 16.3846, "longitude": 76.67229 }, "geometry": { "type": "Point", "coordinates": [ 76.67229, 16.3846 ] } }
+,
+{ "type": "Feature", "id": 329, "properties": { "name": "EKALVYA Lower Primary School THINTHANI  ", "latitude": 16.38135, "longitude": 76.65558 }, "geometry": { "type": "Point", "coordinates": [ 76.65558, 16.38135 ] } }
+,
+{ "type": "Feature", "id": 330, "properties": { "name": "Govt Lower Primary School URDU TINTHANI  ", "latitude": 16.38378, "longitude": 76.67337 }, "geometry": { "type": "Point", "coordinates": [ 76.67337, 16.38378 ] } }
+,
+{ "type": "Feature", "id": 331, "properties": { "name": "Govt High School THINTHANI   ", "latitude": 16.38128, "longitude": 76.67071 }, "geometry": { "type": "Point", "coordinates": [ 76.67071, 16.38128 ] } }
+,
+{ "type": "Feature", "id": 332, "properties": { "name": "GOVT Lower Primary School TIPNATGI  ", "latitude": 16.60649, "longitude": 76.66481 }, "geometry": { "type": "Point", "coordinates": [ 76.66481, 16.60649 ] } }
+,
+{ "type": "Feature", "id": 333, "properties": { "name": "GOVT Higher Primary School TEERTH  ", "latitude": 16.38263, "longitude": 76.43829 }, "geometry": { "type": "Point", "coordinates": [ 76.43829, 16.38263 ] } }
+,
+{ "type": "Feature", "id": 334, "properties": { "name": "GOVT Model Primary School VAJJAL  ", "latitude": 16.47597, "longitude": 76.54758 }, "geometry": { "type": "Point", "coordinates": [ 76.54758, 16.47597 ] } }
+,
+{ "type": "Feature", "id": 335, "properties": { "name": "Govt Lower Primary School ASHRAYA COLONY VAJJAL  ", "latitude": 16.47068, "longitude": 76.5469 }, "geometry": { "type": "Point", "coordinates": [ 76.5469, 16.47068 ] } }
+,
+{ "type": "Feature", "id": 336, "properties": { "name": "Govt High School VAJJAL   ", "latitude": 16.47603, "longitude": 76.54846 }, "geometry": { "type": "Point", "coordinates": [ 76.54846, 16.47603 ] } }
+,
+{ "type": "Feature", "id": 337, "properties": { "name": "Govt Lower Primary School VAJJAL TANDA  ", "latitude": 16.45294, "longitude": 76.55083 }, "geometry": { "type": "Point", "coordinates": [ 76.55083, 16.45294 ] } }
+,
+{ "type": "Feature", "id": 338, "properties": { "name": "Lower Primary School KANAKA NAGAR CHANNAPATANA  ", "latitude": 16.41016, "longitude": 76.63054 }, "geometry": { "type": "Point", "coordinates": [ 76.63054, 16.41016 ] } }
+,
+{ "type": "Feature", "id": 339, "properties": { "name": "ADARSH VIDYALAYA (RMSA) VAJJAL  ", "latitude": 16.47627, "longitude": 76.5481 }, "geometry": { "type": "Point", "coordinates": [ 76.5481, 16.47627 ] } }
+,
+{ "type": "Feature", "id": 340, "properties": { "name": "GOVT Lower Primary School WADAGANUR  ", "latitude": 16.7037, "longitude": 76.44099 }, "geometry": { "type": "Point", "coordinates": [ 76.44099, 16.7037 ] } }
+,
+{ "type": "Feature", "id": 341, "properties": { "name": "GOVT Higher Primary School WAGANAGERA  ", "latitude": 16.52014, "longitude": 76.69879 }, "geometry": { "type": "Point", "coordinates": [ 76.69879, 16.52014 ] } }
+,
+{ "type": "Feature", "id": 342, "properties": { "name": "Lower Primary School PADAKOTI WAGANAGERA  ", "latitude": 16.52362, "longitude": 76.70712 }, "geometry": { "type": "Point", "coordinates": [ 76.70712, 16.52362 ] } }
+,
+{ "type": "Feature", "id": 343, "properties": { "name": "GOVT Higher Primary School YADAHALLI  ", "latitude": 16.52615, "longitude": 76.54465 }, "geometry": { "type": "Point", "coordinates": [ 76.54465, 16.52615 ] } }
+,
+{ "type": "Feature", "id": 344, "properties": { "name": "GOVT Higher Primary School YADALBHAVI  ", "latitude": 16.33951, "longitude": 76.549 }, "geometry": { "type": "Point", "coordinates": [ 76.549, 16.33951 ] } }
+,
+{ "type": "Feature", "id": 345, "properties": { "name": "H PS YADIYAPUR  ", "latitude": 16.61272, "longitude": 76.54264 }, "geometry": { "type": "Point", "coordinates": [ 76.54264, 16.61272 ] } }
+,
+{ "type": "Feature", "id": 346, "properties": { "name": "GOVT Higher Primary School YAKTAPUR  ", "latitude": 16.64992, "longitude": 76.44413 }, "geometry": { "type": "Point", "coordinates": [ 76.44413, 16.64992 ] } }
+,
+{ "type": "Feature", "id": 347, "properties": { "name": "Govt High School YEKTAPUR   ", "latitude": 16.64955, "longitude": 76.4488 }, "geometry": { "type": "Point", "coordinates": [ 76.4488, 16.64955 ] } }
+,
+{ "type": "Feature", "id": 348, "properties": { "name": "GOVT Model Primary School YALAGI  ", "latitude": 16.68735, "longitude": 76.50593 }, "geometry": { "type": "Point", "coordinates": [ 76.50593, 16.68735 ] } }
+,
+{ "type": "Feature", "id": 349, "properties": { "name": "GOVT Higher Primary School URDU YALAGI  ", "latitude": 16.68736, "longitude": 76.50036 }, "geometry": { "type": "Point", "coordinates": [ 76.50036, 16.68736 ] } }
+,
+{ "type": "Feature", "id": 350, "properties": { "name": "Govt High School YALAGI   ", "latitude": 16.68796, "longitude": 76.50605 }, "geometry": { "type": "Point", "coordinates": [ 76.50605, 16.68796 ] } }
+,
+{ "type": "Feature", "id": 351, "properties": { "name": "GOVT High School YANNIWADAGERA  ", "latitude": 16.30628, "longitude": 76.32313 }, "geometry": { "type": "Point", "coordinates": [ 76.32313, 16.30628 ] } }
+,
+{ "type": "Feature", "id": 352, "properties": { "name": "GOVT Higher Primary School YENNIWADAGERA  ", "latitude": 16.30636, "longitude": 76.32222 }, "geometry": { "type": "Point", "coordinates": [ 76.32222, 16.30636 ] } }
+,
+{ "type": "Feature", "id": 353, "properties": { "name": "GOVT Lower Primary School YARKIHAL  ", "latitude": 16.33898, "longitude": 76.3567 }, "geometry": { "type": "Point", "coordinates": [ 76.3567, 16.33898 ] } }
+,
+{ "type": "Feature", "id": 354, "properties": { "name": "AIDED YARAKIHAL TANDA  ", "latitude": 16.32847, "longitude": 76.33909 }, "geometry": { "type": "Point", "coordinates": [ 76.33909, 16.32847 ] } }
+,
+{ "type": "Feature", "id": 355, "properties": { "name": "GOVT Lower Primary School YAWOOR D TANDA ", "latitude": 16.72835, "longitude": 76.58692 }, "geometry": { "type": "Point", "coordinates": [ 76.58692, 16.72835 ] } }
+,
+{ "type": "Feature", "id": 356, "properties": { "name": "GOVT Higher Primary School YAWOOR YAWOOR ", "latitude": 16.73422, "longitude": 76.60535 }, "geometry": { "type": "Point", "coordinates": [ 76.60535, 16.73422 ] } }
+,
+{ "type": "Feature", "id": 357, "properties": { "name": "GOVT Lower Primary School YAWOOR S TANDA ", "latitude": 16.73437, "longitude": 76.60246 }, "geometry": { "type": "Point", "coordinates": [ 76.60246, 16.73437 ] } }
+,
+{ "type": "Feature", "id": 358, "properties": { "name": "GOVT Higher Primary School KUMBARPET  ", "latitude": 16.50869, "longitude": 76.75329 }, "geometry": { "type": "Point", "coordinates": [ 76.75329, 16.50869 ] } }
+,
+{ "type": "Feature", "id": 359, "properties": { "name": "PRERNA Lower Primary School KUMBARPET SHORAPUR  ", "latitude": 16.50663, "longitude": 76.7561 }, "geometry": { "type": "Point", "coordinates": [ 76.7561, 16.50663 ] } }
+,
+{ "type": "Feature", "id": 360, "properties": { "name": "GOVT Lower Primary School VENKATPUR  ", "latitude": 16.51273, "longitude": 76.76406 }, "geometry": { "type": "Point", "coordinates": [ 76.76406, 16.51273 ] } }
+,
+{ "type": "Feature", "id": 361, "properties": { "name": "GOVT Higher Primary School KAVADIMATTI  ", "latitude": 16.48402, "longitude": 76.74901 }, "geometry": { "type": "Point", "coordinates": [ 76.74901, 16.48402 ] } }
+,
+{ "type": "Feature", "id": 362, "properties": { "name": "GOVT Lower Primary School HOSA SIDDAPURA  ", "latitude": 16.54964, "longitude": 76.73761 }, "geometry": { "type": "Point", "coordinates": [ 76.73761, 16.54964 ] } }
+,
+{ "type": "Feature", "id": 363, "properties": { "name": "GOVT Lower Primary School BEVINAL  ", "latitude": 16.65539, "longitude": 76.4496 }, "geometry": { "type": "Point", "coordinates": [ 76.4496, 16.65539 ] } }
+,
+{ "type": "Feature", "id": 364, "properties": { "name": "GOVT Higher Primary School M BHOMMANA HALLI ", "latitude": 16.65348, "longitude": 76.42622 }, "geometry": { "type": "Point", "coordinates": [ 76.42622, 16.65348 ] } }
+,
+{ "type": "Feature", "id": 365, "properties": { "name": "GOVT Model Primary School THIMMAPURA THIMMAPURA ", "latitude": 16.52882, "longitude": 76.77211 }, "geometry": { "type": "Point", "coordinates": [ 76.77211, 16.52882 ] } }
+,
+{ "type": "Feature", "id": 366, "properties": { "name": "GOVT Higher Primary School URDU BEECH MOHALLA THIMMAPURA", "latitude": 16.52901, "longitude": 76.77173 }, "geometry": { "type": "Point", "coordinates": [ 76.77173, 16.52901 ] } }
+,
+{ "type": "Feature", "id": 367, "properties": { "name": "GOVT KANYA Higher Primary School THIMMAPURA  ", "latitude": 16.53367, "longitude": 76.77165 }, "geometry": { "type": "Point", "coordinates": [ 76.77165, 16.53367 ] } }
+,
+{ "type": "Feature", "id": 368, "properties": { "name": "GOVT KANYA Higher Primary School URDU THIMMAPURA ", "latitude": 16.53348, "longitude": 76.77146 }, "geometry": { "type": "Point", "coordinates": [ 76.77146, 16.53348 ] } }
+,
+{ "type": "Feature", "id": 369, "properties": { "name": "GOVT Lower Primary School VADDARA COLONY THIMMAPURA ", "latitude": 16.52914, "longitude": 76.77421 }, "geometry": { "type": "Point", "coordinates": [ 76.77421, 16.52914 ] } }
+,
+{ "type": "Feature", "id": 370, "properties": { "name": "SRI JAGADGURU Higher Primary School THIMMAPURA  ", "latitude": 16.53089, "longitude": 76.77588 }, "geometry": { "type": "Point", "coordinates": [ 76.77588, 16.53089 ] } }
+,
+{ "type": "Feature", "id": 371, "properties": { "name": "SMT. N.H.YARSAM Lower Primary School TIMMAPUR  ", "latitude": 16.5307, "longitude": 76.77497 }, "geometry": { "type": "Point", "coordinates": [ 76.77497, 16.5307 ] } }
+,
+{ "type": "Feature", "id": 372, "properties": { "name": "GOVT Lower Primary School MURAKANAL  ", "latitude": 16.62394, "longitude": 76.54019 }, "geometry": { "type": "Point", "coordinates": [ 76.54019, 16.62394 ] } }
+,
+{ "type": "Feature", "id": 373, "properties": { "name": "GOVT Lower Primary School KIRADAHALLI TANDA  ", "latitude": 16.6204, "longitude": 76.61224 }, "geometry": { "type": "Point", "coordinates": [ 76.61224, 16.6204 ] } }
+,
+{ "type": "Feature", "id": 374, "properties": { "name": "Lower Primary School BASSAPUR BASSAPUR  ", "latitude": 16.33741, "longitude": 76.2998 }, "geometry": { "type": "Point", "coordinates": [ 76.2998, 16.33741 ] } }
+,
+{ "type": "Feature", "id": 375, "properties": { "name": "Aided Lower Primary School MAVINAGIDADA TANDA  ", "latitude": 16.32572, "longitude": 76.37037 }, "geometry": { "type": "Point", "coordinates": [ 76.37037, 16.32572 ] } }
+,
+{ "type": "Feature", "id": 376, "properties": { "name": "GOVT Higher Primary School KADADARAL  ", "latitude": 16.33531, "longitude": 76.48589 }, "geometry": { "type": "Point", "coordinates": [ 76.48589, 16.33531 ] } }
+,
+{ "type": "Feature", "id": 377, "properties": { "name": "Govt Lower Primary School KADADAL TANDA  ", "latitude": 16.32198, "longitude": 76.47767 }, "geometry": { "type": "Point", "coordinates": [ 76.47767, 16.32198 ] } }
+,
+{ "type": "Feature", "id": 378, "properties": { "name": "GOVT Lower Primary School JAMPARADODDI  ", "latitude": 16.39327, "longitude": 76.5661 }, "geometry": { "type": "Point", "coordinates": [ 76.5661, 16.39327 ] } }
+,
+{ "type": "Feature", "id": 379, "properties": { "name": "GOVT Lower Primary School GUDDAKAYAVARA DODDI  ", "latitude": 16.40695, "longitude": 76.60631 }, "geometry": { "type": "Point", "coordinates": [ 76.60631, 16.40695 ] } }
+,
+{ "type": "Feature", "id": 380, "properties": { "name": "GOVT Lower Primary School DALARA DODDI  ", "latitude": 16.39382, "longitude": 76.58013 }, "geometry": { "type": "Point", "coordinates": [ 76.58013, 16.39382 ] } }
+,
+{ "type": "Feature", "id": 381, "properties": { "name": "GOVT Lower Primary School TALLAHALLI (K)  ", "latitude": 16.52452, "longitude": 76.60608 }, "geometry": { "type": "Point", "coordinates": [ 76.60608, 16.52452 ] } }
+,
+{ "type": "Feature", "id": 382, "properties": { "name": "GOVT Lower Primary School GOJAGARDODDI  ", "latitude": 16.35645, "longitude": 76.601 }, "geometry": { "type": "Point", "coordinates": [ 76.601, 16.35645 ] } }
+,
+{ "type": "Feature", "id": 383, "properties": { "name": "GOVT Lower Primary School TANGADA BAIL  ", "latitude": 16.28778, "longitude": 76.40512 }, "geometry": { "type": "Point", "coordinates": [ 76.40512, 16.28778 ] } }
+
+]
+}
